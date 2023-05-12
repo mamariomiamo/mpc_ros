@@ -1,0 +1,4 @@
+0.1.0 Updated dockerfile with ros domain isolation, shared host's gitconfig
+0.0.3 Added black tool and transforms3d lib
+0.0.2 Cleaned up dockerfile
+0.0.1 Initial version of the devcontainer dockerfile
